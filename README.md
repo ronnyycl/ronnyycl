@@ -1,5 +1,13 @@
-### Hi there 👋
-
+### Hi! I'am Ronny carrasquel a Web Dev 👋🏽 👨🏾‍💻
+```javascript
+const ronny = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  challenge: "I am doing the #100DaysOfCode challenge focused on HTML, CSS and Javascript"
+}
+```
+🎯 You cand find me:
+- [Twitter](https://twitter.com/Ronnweb)
 <!--
 **ronnyycl/ronnyycl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
