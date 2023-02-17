@@ -2,8 +2,8 @@
 ```javascript
 const ronny = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  challenge: "I am doing the #100DaysOfCode challenge focused on HTML, CSS and Javascript"
+  code: [Javascript, Python, HTML, CSS],
+  challenge: "I am doing the #100DaysOfCode"
 }
 ```
 🎯 You cand find me:
